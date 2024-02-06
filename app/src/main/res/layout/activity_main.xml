@@ -30,10 +30,10 @@
         android:layout_height="wrap_content"
         android:text="@string/add_todo_btn"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/btnDeleteTodo" />
+        app:layout_constraintEnd_toStartOf="@+id/btnDeleteTodos" />
 
     <Button
-        android:id="@+id/btnDeleteTodo"
+        android:id="@+id/btnDeleteTodos"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/delete_todo_btn"
